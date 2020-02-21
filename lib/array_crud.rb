@@ -35,7 +35,7 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array,element,indexnumber)
-  array[indexnumber]=element
+  array[indexnumber]=
 end
   
 
