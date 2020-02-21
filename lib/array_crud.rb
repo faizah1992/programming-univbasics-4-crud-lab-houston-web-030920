@@ -6,8 +6,8 @@ def create_an_array
   ['faizah','farshid','ahsan','zaman']
 end
 
-def dd_element_to_end_of_array(array,element)
+def add_element_to_end_of_array(array,element)
   array.push(element)
 end
 
-def
+def add_element_to_start_of_array
