@@ -26,5 +26,9 @@ def retrieve_element_from_index(array,indexnumber)
   array[indexnumber]
 end
 
-def 
+def retrieve_first_element_from_array(array)
+  array[0]
+end
+
+
 
